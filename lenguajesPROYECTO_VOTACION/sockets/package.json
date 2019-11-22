@@ -1,0 +1,27 @@
+{
+    "name": "WebSockets_Votaciones",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon server/main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HectorCamacho-10/WebSockets_Votaciones.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/HectorCamacho-10/WebSockets_Votaciones/issues"
+    },
+    "homepage": "https://github.com/HectorCamacho-10/WebSockets_Votaciones#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^2.3.0"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.4"
+    }
+}
